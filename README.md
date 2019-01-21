@@ -5,7 +5,7 @@
 * [What is Flappy Bird? ](http://flappybird.io)
 
 ### How to play?
-* The red square is the bird that can be controlled by "KEY[1]". Each time you press, the bird will flap. You can also press and hold "KEY[1]".
+* The red square is the bird that can be controlled by "KEY[1]". Each time you press, the bird will flap once. You can also press and hold "KEY[1]" to make the bird continuously flap.
 * Flap between the pipes and collect the coins, which are represented by the yellow squares.
 * The number of coins collected is shown on "HEX0" and "HEX1" (hexadecimal).
 * Avoid crashing into the pipes or falling onto the ground! Otherwise, you will lose and "LEDR[0]" will light up.
